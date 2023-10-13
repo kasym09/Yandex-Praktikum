@@ -1,4 +1,4 @@
-
+https://nbviewer.org/github/kasym09/Yandex-Praktikum/blob/main/Final%20Project/Customer%20Churn%20Prediction%20Model..ipynb
 # Модель для предсказания оттока клиентов
 
 ## Описание проекта:
